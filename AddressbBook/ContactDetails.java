@@ -1,6 +1,6 @@
 package com.bridgelabz;
 
-public class ContactDetail {
+public class ContactDetails {
 	private String firstName;
 	private String lastName;
 	private String addressCity;
